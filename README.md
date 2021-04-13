@@ -1,6 +1,9 @@
 # Project MacSec
 
-## Personal Project to transform your Mac into a PenTesting/Forensic device
+## Transform your Mac into a PenTesting/Forensic device
+
+This is a personal project I want to share with the community. It's a collection of pentesting/forensic tools available for MacOS through Homebrew. 
+It's neither complete nor even near probably but continuesly extended!
 
 ### Tools
 
@@ -163,6 +166,12 @@
 	* volatility
 	* wireshark
 	* yara
+
+#### Misc
+
+	* OpenVPN
+	* Tor Browser
+
 
 ### Installation
 

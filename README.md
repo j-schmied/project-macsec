@@ -4,6 +4,9 @@
 
 This is a personal project I want to share with the community. It's a collection of pentesting/forensic tools available for MacOS through Homebrew. 
 It's neither complete nor even near probably but continuesly extended!
+Feel free to extend it on your own and have fun exploring!
+
+Disclaimer/Notice: use these tools ONLY if the system you're testing is owned by you or you have a WRITTEN CONSENT FORM of the owner! Otherwise, the usage is probably illegal!
 
 ### Tools
 

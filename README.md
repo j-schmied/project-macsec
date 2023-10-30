@@ -1,3 +1,5 @@
+![](assets/logo_white.png)
+
 # Project MacSec
 
 ## Transform your Mac into a PenTesting/Forensic device
